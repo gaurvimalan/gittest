@@ -1,8 +1,5 @@
 
-Hi
-This is the second file.
-Hi, i edited this file using vim command.
-To save and exit the changes :wq and then :x and press Escape.
+"You have to let it all go, Gaurvi Malan. Fear, Doubt and Disbelief. Free your mind.”
 
 
 
